@@ -44,10 +44,10 @@ header nav ul {
 }
 header nav ul li {
   margin-right: 20px;
-  padding: 0 10px;
 }
 header nav ul li a {
   color: hsl(176deg, 68%, 64%);
+  font-size: 13px;
 }
 header nav ul li a:hover {
   color: hsl(0deg, 0%, 100%);
