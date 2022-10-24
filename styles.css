@@ -38,15 +38,12 @@ header {
 header .logo {
   width: 50%;
 }
-header nav {
-  flex: 1;
-}
 header nav ul {
   display: flex;
   list-style: none;
 }
 header nav ul li {
-  margin-inline: 10px;
+  margin-right: 10px;
 }
 header nav ul li a {
   color: hsl(176deg, 68%, 64%);
