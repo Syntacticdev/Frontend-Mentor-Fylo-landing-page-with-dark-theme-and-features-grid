@@ -34,7 +34,7 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 20px;
-  width: 100%;
+  width: 100vw;
 }
 header .logo {
   width: 50%;
