@@ -275,11 +275,15 @@ footer {
     max-width: 50%;
   }
   .function {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
     width: 90%;
     margin: 0 auto;
     justify-content: center;
     align-items: center;
+  }
+  .function > div {
+    width: 100%;
   }
   .function_content__title {
     font-size: 30px;
