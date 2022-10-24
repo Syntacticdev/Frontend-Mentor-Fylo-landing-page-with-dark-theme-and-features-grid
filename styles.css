@@ -48,6 +48,7 @@ header nav ul li {
 }
 header nav ul li a {
   color: hsl(176deg, 68%, 64%);
+  flex-wrap: no-wrap;
 }
 header nav ul li a:hover {
   color: hsl(0deg, 0%, 100%);
