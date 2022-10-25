@@ -260,6 +260,9 @@ footer {
     background-repeat: no-repeat;
     background-position: bottom;
   }
+  .showcase__title {
+    font-size: 30px;
+  }
   .showcase__image {
     width: 50%;
   }
